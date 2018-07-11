@@ -189,7 +189,7 @@ z-index: 10;
 .navbar-default .navbar-offcanvas .navmenu-nav>li>a:hover, 
 .navmenu-default .navmenu-nav>li>a:focus, 
 .navbar-default .navbar-offcanvas .navmenu-nav>li>a:focus {
-color: #C59A6D;
+color: #004069;
 background-color: transparent;
 }
 .nav > li {
@@ -205,7 +205,7 @@ font-size: 12px;
 line-height: 30px;
 }
 nav#menu span.fa.fa-bars:hover {
-color: #C59A6D;
+color: #004069;
 }
 .navmenu-default .navmenu-nav>.active>a, 
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a, 
@@ -213,7 +213,7 @@ color: #C59A6D;
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a:hover, 
 .navmenu-default .navmenu-nav>.active>a:focus, 
 .navbar-default .navbar-offcanvas .navmenu-nav>.active>a:focus {
-color: #C59A6D;
+color: #004069;
 background-color: transparent;
 }
 
@@ -290,10 +290,10 @@ a.down-btn span.fa.fa-angle-down {
 }
 .service:hover>h4,
 .service:hover>span.fa{
-	color: #c59a6d;
+	color: #004069;
 }
 .service:hover{
-	border-color: #c59a6d;
+	border-color: #004069;
 	margin-top: 0px;
 	margin-bottom: 0px;
 	cursor: pointer;
@@ -333,7 +333,7 @@ a.btn.go-to-btn:hover{
 }
 
 .portfolio-item .hover-bg{
-	height: 280px;
+	
 	overflow: hidden;
 	position: relative;
 }
@@ -536,7 +536,7 @@ address strong{
 	font-family: 'Brandon-Bold', sans-serif;
 }
 address:before{
-	content: "\f041";
+
 	display: inline-block;
   	font: normal normal normal 14px/1 FontAwesome;
   	font-size: 20px;
@@ -622,7 +622,7 @@ nav#footer{
 	background: #282f35;
 	padding: 40px 0;
 	color: #ffffff;
-	border-bottom: 5px solid #c59a6d;
+	border-bottom: 5px solid #004069;
 }
 #footer span.fa{
 	color: #c59a6d;
